@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000</color>
+    <color name="colorAccent">#03dac5</color>
+    <color name="colorPrimary">#6200ee</color>
+    <color name="colorPrimaryDark">#3700b3</color>
+    <color name="green">#4caf50</color>
+    <color name="greyish">#aaa8a8</color>
+    <color name="red">#d50000</color>
+    <color name="white">#fff</color>
+
+    <color name="background">#dddddd</color>
+
+    <color name="shimmerad">#253dff</color>
+    <color name="shimmeradstroke">#3847ff</color>
+</resources>

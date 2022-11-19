@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.lockit_face_finger_pattern_pin" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="PopupOverlay">
+    </style>
+
+    <style name="SCBSwitch">
+        <item name="android:colorForeground">#42221f1f</item>
+        <item name="colorControlActivated">#46bdbf</item>
+        <item name="colorSwitchThumbNormal">#f1f1f1</item>
+    </style>
+</resources>
